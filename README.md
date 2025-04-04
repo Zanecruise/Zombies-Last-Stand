@@ -2,6 +2,8 @@
 
 O presente projeto serve para mostrar o desenvolvimento do jogo
 
+*link:* https://www.roblox.com/pt/games/88601084084022/Fag 
+
 ## FLUXO DO LOBBY
 ![image](https://github.com/user-attachments/assets/e8dfb252-39fe-4eaf-ae99-9745f0a5d4e7)
 
